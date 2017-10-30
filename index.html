@@ -210,7 +210,7 @@
         lng = position.coords.longitude
         lat = lat.toString()
         lng = lng.toString()
-        url = 'http://maps.googleapis.com/maps/api/geocode/json?latlng='+lat+','+lng+'&key=AIzaSyD3N7NC_ztTEmHt8BugovKtg1sHCOyfs6Y'
+        url = 'https://maps.googleapis.com/maps/api/geocode/json?latlng='+lat+','+lng+'&key=AIzaSyD3N7NC_ztTEmHt8BugovKtg1sHCOyfs6Y'
 
         $.getJSON(url,function(res){
           results = res['results']
