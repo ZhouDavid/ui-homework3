@@ -1,0 +1,31 @@
+.st0{
+  fill:#34495E;/*purple*/
+}
+.st1{
+  fill:#F7696D;/*red*/
+}
+.st2{
+  fill:#41C2ED;/*blue*/
+}
+.st3{
+  fill:#566573;/*yellow*/
+}
+.st4{
+  fill:#FFFFFF;/*white*/
+}
+svg.face{
+  width:220px;
+  height:240px;
+}
+
+svg.dialog{
+	width:200px;
+	height:200px;
+}
+img{
+	width:200px;
+	height:200px;
+}
+p{
+	font-size:xx-small;
+}
